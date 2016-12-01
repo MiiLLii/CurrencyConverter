@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_array">
+        <item>(NOK) Norwegian Krone</item>
+        <item>(USD) US Dollar</item>
+        <item>(AUD) Australian Dollar</item>
+        <item>(GBP) British Pound</item>
+        <item>(EUR) Euro</item>
+        <item>(BRL) Brazilian Real</item>
+        <item>(DKK) Danish Krone</item>
+        <item>(SEK) Swedish Krone</item>
+        <item>(JPY) Japanese Yen</item>
+
+
+    </string-array>
+</resources>

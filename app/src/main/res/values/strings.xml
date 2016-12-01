@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="convert">Convert</string>
+    <string name="_0">0</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, id dicam voluptatum vis, ei apeirian perfecto consequat mel. Mea case ocurreret ullamcorper cu, vel ei agam quaestio deseruisse. Vix id ullum facilisis patrioque, ad vix cibo illud, an est habeo simul regione. Mucius praesent eu vix. An wisi consequat adolescens eum, laoreet menandri accusamus eu per. Nibh veri vim eu, id menandri consectetuer pro. Ius malis oblique eu, in vis velit feugiat deterruisset, libris ridens melius ei eos. Vocent convenire vix ex, ne etiam tantas voluptatibus sit, ius corrumpit voluptaria et. Vix summo nominavi qualisque cu. Te cum iusto denique similique, elit vivendum volutpat no nam. Per utinam gubergren ut, vis an saepe salutandi, eos nullam explicari maiestatis ei.</string>
+    <string name="about_">About</string>
+    <string name="back">Back</string>
+</resources>
